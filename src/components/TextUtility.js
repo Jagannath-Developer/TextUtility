@@ -33,8 +33,8 @@ export default function () {
             </div>
             
             <div className='container my-4'>
-                <button className="btn btn-primary mx-4" onClick={handlerOnClickUp} >Convert To ABCD</button>
-                <button className="btn btn-primary mx-4" onClick={handlerOnClickLow} >Convert To abcd</button>
+                <button className="btn btn-primary m-4" onClick={handlerOnClickUp} >Convert To ABCD</button>
+                <button className="btn btn-primary m-4" onClick={handlerOnClickLow} >Convert To abcd</button>
             </div>
             <div className="container">
                 <h4>Text Summery</h4>
